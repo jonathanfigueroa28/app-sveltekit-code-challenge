@@ -6,9 +6,9 @@ Nuestro code challenge consiste en una prueba sencilla para conocerte mejor como
 Al final hay una breve guía para envíar tu solución.
 
 -   [Problema](#problema)
--   [Tech Stack](#tech_stack)
+-   [Tech Stack](#techstack)
 -   [Opcional](#opcional)
--   [Envía tu solucion](#solucion)
+-   [Envía tu solucion](#solución)
 
 # Problema
 Se quiere gestionar a los usuarios de un sistema, tu solución debe permitir
