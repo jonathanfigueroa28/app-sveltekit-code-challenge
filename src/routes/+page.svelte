@@ -39,7 +39,7 @@
     let error = false;
     const existeUsuario = usuarios.some((usuario) => usuario.username === newuser.username);
 
-    if (newuser.username.trim() === "" || newuser.password.trim() === "") {
+    if (newuser.username === "") {
       selectorError("1","Por favor ingrese un nombre de usuario.");
       error = true;       
     }else{
@@ -76,7 +76,7 @@
     let error = false;
     const existeUsuario = usuarios.some((usuario) => usuario.username === newuser.username);
 
-    if (newuser.username.trim() === "" || newuser.password.trim() === "") {
+    if (newuser.username === "") {
       selectorError("3","Por favor ingrese un nombre de usuario.");
       error = true;       
     }else{
